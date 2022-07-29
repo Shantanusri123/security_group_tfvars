@@ -1,3 +1,3 @@
-name = "Sit Security Group"
+name = "SIT Security Group"
 port = 22
 aws_region = "ap-south-1"
